@@ -38,7 +38,7 @@ export const SOCIALS = [
   {
     name: "Email",
     icon: MdEmail,
-    link: "mailto:vikaspandey95180@gmail.com",
+    link: "mailto:vikaspandey.ai@gmail.com",
   },
 ] as const;
 
@@ -217,9 +217,9 @@ export const FOOTER_DATA = [
     title: "Contact",
     data: [
       {
-        name: "vikaspandey95180@gmail.com",
+        name: "vikaspandey.ai@gmail.com",
         icon: MdEmail,
-        link: "mailto:vikaspandey95180@gmail.com",
+        link: "mailto:vikaspandey.ai@gmail.com",
       },
       {
         name: "+91 95180 52421",
@@ -231,11 +231,11 @@ export const FOOTER_DATA = [
   {
     title: "Location",
     data: [
-      { name: "Uttar Pradesh, India", icon: null, link: "#about-me" },
+      { name: "Delhi, India", icon: null, link: "#about-me" },
       {
         name: "Available for AI/ML roles",
         icon: null,
-        link: "mailto:vikaspandey95180@gmail.com",
+        link: "mailto:vikaspandey.ai@gmail.com",
       },
     ],
   },
